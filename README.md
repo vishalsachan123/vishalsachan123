@@ -1,15 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,100:5EEAD4&height=200&section=header&text=Vishal%20Sachan&fontSize=48&fontColor=E7EAF0&animation=fadeIn&fontAlignY=38&desc=Conversational%20AI%20%C2%B7%20RAG%20%C2%B7%20Multi-Agent%20Systems&descAlignY=58&descSize=18&descColor=8A94A6" alt="header"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+on+Azure+OpenAI;Orchestrating+multi-agent+workflows+with+AutoGen;Turning+prompts+into+production+APIs" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalsachan123&label=Profile%20views&color=5EEAD4&style=flat" alt="vishalsachan123" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-A78BFA?style=flat" alt="open to work"/>
-</p>
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,100:5EEAD4&height=200&section=header&text=Vishal%20Sachan&fontSize=48&fontColor=E7EAF0&animation=fadeIn&fontAlignY=38&desc=Conversational%20AI%20%C2%B7%20RAG%20%C2%B7%20Multi-Agent%20Systems&descAlignY=58&descSize=18&descColor=8A94A6" alt="header"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+on+Azure+OpenAI;Orchestrating+multi-agent+workflows+with+AutoGen;Turning+prompts+into+production+APIs" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalsachan123&label=Profile%20views&color=5EEAD4&style=flat" alt="vishalsachan123" /> <img src="https://img.shields.io/badge/Open%20to-Work-A78BFA?style=flat" alt="open to work"/> </p>
 
 - 🔭 Currently building **multilingual Conversational AI, RAG pipelines, and multi-agent workflows** at Unify Cloud
 - 🌱 Currently sharpening **Prompt Engineering, Semantic Search, and Multi-Agent Orchestration (AutoGen)**
@@ -17,65 +6,20 @@
 - 📫 Reach me: **mrvishalpatel673@gmail.com**
 - 🌐 Portfolio: **https://vishalsachan123.github.io**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishal-sachan-py" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/></a>
-<a href="mailto:mrvishalpatel673@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-</p>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/vishal-sachan-py" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> <a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/></a> <a href="mailto:mrvishalpatel673@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a> </p>
 
 ---
 
-### 🛠️ Languages, Frameworks &amp; Cloud
+### 🛠️ Languages, Frameworks & Cloud
 
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-</p>
+<p align="left"> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a> <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a> </p>
 
 ### 🤖 AI / ML Focus
 
-<p align="left">
-<img src="https://img.shields.io/badge/-Generative%20AI-A78BFA?style=for-the-badge" alt="genai"/>
-<img src="https://img.shields.io/badge/-RAG-5EEAD4?style=for-the-badge&logoColor=black" alt="rag"/>
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge" alt="langchain"/>
-<img src="https://img.shields.io/badge/-AutoGen-0078D4?style=for-the-badge" alt="autogen"/>
-<img src="https://img.shields.io/badge/-Prompt%20Engineering-FBBF24?style=for-the-badge&logoColor=black" alt="promptengineering"/>
-<img src="https://img.shields.io/badge/-Semantic%20Search-5EEAD4?style=for-the-badge&logoColor=black" alt="semanticsearch"/>
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/-Generative%20AI-A78BFA?style=for-the-badge" alt="genai"/> <img src="https://img.shields.io/badge/-RAG-5EEAD4?style=for-the-badge&logoColor=black" alt="rag"/> <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge" alt="langchain"/> <img src="https://img.shields.io/badge/-AutoGen-0078D4?style=for-the-badge" alt="autogen"/> <img src="https://img.shields.io/badge/-Prompt%20Engineering-FBBF24?style=for-the-badge&logoColor=black" alt="promptengineering"/> <img src="https://img.shields.io/badge/-Semantic%20Search-5EEAD4?style=for-the-badge&logoColor=black" alt="semanticsearch"/> </p>
 
-### 🏆 HackerRank Certifications &amp; Badges
+### 🏆 Badges
 
-<p align="left">
-<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Python%205★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Python 5 star"/></a>
-<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Java%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java certified"/></a>
-<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-SQL%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL certified"/></a>
-</p>
-<p align="left"><em>These are static badges linking to my live HackerRank profile — HackerRank has no official real-time widget like GitHub does.</em></p>
+![[Pasted image 20260710025106.png]]
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalsachan123&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0B0D12&title_color=5EEAD4&icon_color=A78BFA&text_color=E7EAF0" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsachan123&layout=compact&theme=dark&hide_border=true&bg_color=0B0D12&title_color=5EEAD4&text_color=E7EAF0" alt="top langs"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsachan123&theme=dark&hide_border=true&background=0B0D12&stroke=232938&ring=5EEAD4&fire=FBBF24&currStreakLabel=E7EAF0" alt="streak"/>
-</p>
-
-### 🥇 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vishalsachan123&theme=dark_dimmed&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:0B0D12&height=100&section=footer" alt="footer"/>
-</p>
