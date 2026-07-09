@@ -50,15 +50,12 @@
 
 ### 📜 Certifications
 
-| Certification | Issuer | Issued | Credential ID |
-|---|---|---|---|
-| Master Machine Learning for Data Science | Codebasics | Jan 2026 | CB-69-440665 |
-| Java (Basic) Certificate | HackerRank | Jul 2023 | 500190942cf6 |
-| SQL (Basic) | HackerRank | — | — |
-| Programming Fundamentals using Python | Infosys Springboard | — | — |
-| Object Oriented Programming using Python | Infosys Springboard | — | — |
+- 🔹 [Master Machine Learning for Data Science](#) — Codebasics
+- 🔹 [Java (Basic) Certificate](#) — HackerRank
+- 🔹 [SQL (Basic)](#) — HackerRank
+- 🔹 [Programming Fundamentals using Python](#) — Infosys Springboard
+- 🔹 [Object Oriented Programming using Python](#) — Infosys Springboard
 
-<p align="left"><em><a href="https://hackerrank.com/profile/sachan_vishal" target="_blank">View HackerRank profile →</a></em></p>
 
 ---
 
