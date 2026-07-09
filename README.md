@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+on+Azure+OpenAI;Orchestrating+multi-agent+workflows+with+Langchain;Turning+prompts+into+production+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+on+Azure+OpenAI;Orchestrating+multi-agent+workflows+with+AutoGen;Turning+prompts+into+production+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,11 +48,34 @@
 <img src="https://img.shields.io/badge/-Semantic%20Search-5EEAD4?style=for-the-badge&logoColor=black" alt="semanticsearch"/>
 </p>
 
-### 🏆 Certifications & Badges
+### 🏆 HackerRank Certifications &amp; Badges
 
 <p align="left">
-  <a href="https://hackerrank.com/profile/sachan_vishal" target="_blank">
-    <img src="./assets/hackerrank.png" alt="HackerRank badges" width="500"/>
-  </a>
+<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Python%205★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Python 5 star"/></a>
+<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Java%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java certified"/></a>
+<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-SQL%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL certified"/></a>
 </p>
-<p align="left"><em><a href="https://hackerrank.com/profile/sachan_vishal">View live profile →</a></em></p>
+<p align="left"><em>These are static badges linking to my live HackerRank profile — HackerRank has no official real-time widget like GitHub does.</em></p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalsachan123&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0B0D12&title_color=5EEAD4&icon_color=A78BFA&text_color=E7EAF0" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsachan123&layout=compact&theme=dark&hide_border=true&bg_color=0B0D12&title_color=5EEAD4&text_color=E7EAF0" alt="top langs"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsachan123&theme=dark&hide_border=true&background=0B0D12&stroke=232938&ring=5EEAD4&fire=FBBF24&currStreakLabel=E7EAF0" alt="streak"/>
+</p>
+
+### 🥇 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vishalsachan123&theme=dark_dimmed&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:0B0D12&height=100&section=footer" alt="footer"/>
+</p>
