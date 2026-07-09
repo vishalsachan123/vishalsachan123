@@ -62,23 +62,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalsachan123&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0B0D12&title_color=5EEAD4&icon_color=A78BFA&text_color=E7EAF0" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsachan123&layout=compact&theme=dark&hide_border=true&bg_color=0B0D12&title_color=5EEAD4&text_color=E7EAF0" alt="top langs"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsachan123&theme=dark&hide_border=true&background=0B0D12&stroke=232938&ring=5EEAD4&fire=FBBF24&currStreakLabel=E7EAF0" alt="streak"/>
-</p>
-
-### 🥇 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vishalsachan123&theme=dark_dimmed&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:0B0D12&height=100&section=footer" alt="footer"/>
-</p>
+- 🔹 [AI-Based Care Plan Discrepancy Detection System](#) — Azure Function that flags discrepancies between care plans and recorded actions using LLMs, with results stored in SQL Server for dashboard reporting
+- 🔹 [Enterprise Conversational AI Chatbot](#) — Multilingual chatbot using Azure OpenAI and RAG over structured (SQL Server) and unstructured data, with FastAPI backend and conversation memory
