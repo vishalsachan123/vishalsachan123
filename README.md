@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+on+Azure+OpenAI;Orchestrating+multi-agent+workflows+with+AutoGen,+Langchain;Turning+prompts+into+production+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+on+Azure+OpenAI;Orchestrating+multi-agent+workflows+with+Langchain;Turning+prompts+into+production+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,13 +48,11 @@
 <img src="https://img.shields.io/badge/-Semantic%20Search-5EEAD4?style=for-the-badge&logoColor=black" alt="semanticsearch"/>
 </p>
 
-### 🏆 HackerRank Certifications &amp; Badges
+### 🏆 Certifications & Badges
 
 <p align="left">
-<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Python%205★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Python 5 star"/></a>
-<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Java%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java certified"/></a>
-<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-SQL%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL certified"/></a>
+  <a href="https://hackerrank.com/profile/sachan_vishal" target="_blank">
+    <img src="./assets/hackerrank.png" alt="HackerRank badges" width="500"/>
+  </a>
 </p>
-<p align="left"><em>These are static badges linking to my live HackerRank profile — HackerRank has no official real-time widget like GitHub does.</em></p>
-
----
+<p align="left"><em><a href="https://hackerrank.com/profile/sachan_vishal">View live profile →</a></em></p>
