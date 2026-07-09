@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishal-sachan-py" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://hackerrank.com/profile/sachan_vishal" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/></a>
 <a href="mailto:mrvishalpatel673@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
@@ -63,3 +62,7 @@
 
 - 🔹 [AI-Based Care Plan Discrepancy Detection System](#) — Azure Function that flags discrepancies between care plans and recorded actions using LLMs, with results stored in SQL Server for dashboard reporting
 - 🔹 [Enterprise Conversational AI Chatbot](#) — Multilingual chatbot using Azure OpenAI and RAG over structured (SQL Server) and unstructured data, with FastAPI backend and conversation memory
+- 🔹 [MedCAN AI Workflow — Hybrid RAG + Multi-Agent Query System](#) — Multi-agent RAG system over structured (SQL, Cosmos DB) and unstructured data using Azure AI Search, LangChain and LangGraph, with automated data ingestion and query monitoring
+- 🔹 [AI Data Analyst — Natural Language to SQL with Insights & Visualization](#) — Converts natural language into SQL using FastAPI and LangChain, with schema-aware retrieval, safe read-only execution, and LLM-powered chart generation
+- 🔹 [AI Conversational Platform — Multi-Session Chat System](#) — Full-stack conversational platform with persistent multi-session context using React, FastAPI, SQL Server and Azure OpenAI, supporting message edits and conversation resumption
+- 🔹 [AI-Based Job Assignment & Optimization System](#) — Python, SQL Server, AutoGen — Assigns jobs to mechanics by analyzing availability, productivity, and performance data across multiple SQL tables, with contextual memory of assignments
