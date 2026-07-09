@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 Currently building **multilingual Conversational AI, RAG pipelines, and multi-agent workflows** at Unify Cloud
-- 🌱 Currently sharpening **Prompt Engineering, Semantic Search, and Multi-Agent Orchestration (AutoGen)**
+- 🌱 Currently sharpening **Prompt Engineering, Semantic Search, and Multi-Agent Orchestration**
 - 💬 Ask me about **Python, FastAPI, Azure OpenAI, Azure AI Search, LangChain, AutoGen, SQL Server**
 - 📫 Reach me: **mrvishalpatel673@gmail.com**
 - 🌐 Portfolio: **https://vishalsachan123.github.io**
